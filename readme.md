@@ -7,7 +7,7 @@ Basicamente este projeto serve de ponta-pé inicial para qualquer projeto Angula
 Para iniciar será necessário ter o NodeJS instalado em seu ambiente e executar o comando a seguir:
 
 ```
-$ > npm install -g http-server karma
+$ > npm install -g http-server grunt karma
 ```
 
 Após instalar o que falta no ambiente, basta executar o seguinte comando:
