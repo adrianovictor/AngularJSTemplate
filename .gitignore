@@ -1,0 +1,20 @@
+# Others
+sql/
+logs/
+logs/*.txt
+logs/*.log
+*.Cache
+ClientBin/
+[Ss]tyle[Cc]op.*
+~$*
+*~
+*.dbmdl
+*.[Pp]ublish.xml
+*.pfx
+*.publishsettings
+node_modules/
+node_modules/*
+bower_components/
+bower_components/*
+.gitkeep
+*.sample
